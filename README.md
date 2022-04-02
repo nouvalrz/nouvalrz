@@ -16,7 +16,7 @@ My name is Nouval Rizky and I'm a Information Techonlogy Students who are intere
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=important)
 ![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=important)
 ![](https://img.shields.io/badge/Framework-Ruby_On_Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=important)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=important)
+
 <br /><br />
 ⚡Code Editor and IDE<br /><br />
 ![](https://img.shields.io/badge/Framework-Android_Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=green)
