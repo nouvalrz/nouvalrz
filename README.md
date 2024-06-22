@@ -1,6 +1,6 @@
 # Hello Everyone! 👋
 
-My name is **Nouval Rizky** and I'm an **Information Technology Student** at Udayana University.
+My name is **Nouval Rizky** and I'm a **Full Stack Software Engineer**.
 
 ![GitHub followers](https://img.shields.io/github/followers/nouvalrz?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/nouvalrz?style=social)
@@ -26,6 +26,9 @@ My name is **Nouval Rizky** and I'm an **Information Technology Student** at Uda
 ## 📌 Pinned Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nouvalrz&repo=kateringku_mobile)](https://github.com/nouvalrz/kateringku_mobile)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nouvalrz&repo=gigih-family-catering)](https://github.com/nouvalrz/gigih-family-catering)
+
+## 🌐 Visit My Portfolio
+Check out my personal website: [nouvalrz.tech](https://nouvalrz.tech)
 
 ## 🔗 Connect with me
 - 📧 nouvalr@gmail.com
