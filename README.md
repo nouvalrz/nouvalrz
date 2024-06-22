@@ -1,37 +1,37 @@
-# Hello Everyone!
+# Hello Everyone! 👋
 
-My name is Nouval Rizky and I'm a Information Techonlogy Students who are interested in developing android applications and UI/UX design.
+My name is **Nouval Rizky** and I'm an **Information Technology Student** at Udayana University.
 
+![GitHub followers](https://img.shields.io/github/followers/nouvalrz?style=social)
+![GitHub stars](https://img.shields.io/github/stars/nouvalrz?style=social)
 
-## 🔧 Technologies I Used
-⚡Programming Language<br /><br />
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
-<br /><br />
-⚡Framework<br /><br />
-![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=important)
-![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=important)
-![](https://img.shields.io/badge/Framework-Ruby_On_Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=important)
+## 🚀 Technologies I Use
+- **Programming Languages:**
+  ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=007396)
+  ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+  ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=777BB4)
+  ![Dart](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=0175C2)
+  ![Ruby](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=CC342D)
+  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 
-<br /><br />
-⚡Code Editor and IDE<br /><br />
-![](https://img.shields.io/badge/Framework-Android_Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=green)
-![](https://img.shields.io/badge/Framework-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=green)
-<!--
-**nouvalrizky/nouvalrizky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Frameworks:**
+  ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=FF2D20)
+  ![Flutter](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=02569B)
+  ![Ruby on Rails](https://img.shields.io/badge/Framework-Ruby%20On%20Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=CC0000)
 
-Here are some ideas to get you started:
+- **Code Editor and IDE:**
+  ![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-informational?style=flat&logo=android-studio&logoColor=white&color=3DDC84)
+  ![VS Code](https://img.shields.io/badge/IDE-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Pinned Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nouvalrz&repo=kateringku_mobile)](https://github.com/nouvalrz/kateringku_mobile)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nouvalrz&repo=gigih-family-catering)](https://github.com/nouvalrz/gigih-family-catering)
+
+## 🔗 Connect with me
+- 📧 nouvalr@gmail.com
+- [LinkedIn](https://linkedin.com/in/nouvalrz)
+- [Twitter](https://twitter.com/nouvalrizky444)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nouvalrz&show_icons=true&theme=radical)
