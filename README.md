@@ -28,12 +28,11 @@ My name is **Nouval Rizky** and I'm a **Full Stack Software Engineer**.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nouvalrz&repo=gigih-family-catering)](https://github.com/nouvalrz/gigih-family-catering)
 
 ## 🌐 Visit My Portfolio
-Check out my personal website: [nouvalrz.tech](https://nouvalrz.tech)
+Check out my personal website: [nouvalrz.site](https://nouvalrz.site)
 
 ## 🔗 Connect with me
 - 📧 nouvalr@gmail.com
 - [LinkedIn](https://linkedin.com/in/nouvalrz)
-- [Twitter](https://twitter.com/nouvalrizky444)
 
 ---
 
